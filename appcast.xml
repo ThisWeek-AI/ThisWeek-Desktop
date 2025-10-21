@@ -4,11 +4,11 @@
         <title>ThisWeek</title>
         <item>
             <title>1.1</title>
-            <pubDate>Tue, 21 Oct 2025 16:03:50 +0100</pubDate>
+            <pubDate>Tue, 21 Oct 2025 18:50:16 +0100</pubDate>
             <sparkle:version>1.1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/prod/ThisWeekUpdateTest.dmg" length="3724066" type="application/octet-stream" sparkle:edSignature="6PLCj9VvAKdlwPDfrw02L+NDcEjMNfGtNVsAVTZBLqqsiCWANAE1NdQJCzQs2ATA9Wb+fTTF7QfI4+PGH/H7Bw=="/>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/prod/ThisWeekUpdateTest.dmg" length="3767824" type="application/octet-stream" sparkle:edSignature="yTs+TrHA8s7honJlRmTCBxhjFNSTblfB3I41OgBMAvGBw4ewavWwT5DnLaJJG8qWKegrQjcxYT3RH78NHtPfDg=="/>
         </item>
     </channel>
 </rss>
