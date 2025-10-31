@@ -1,3 +1,3 @@
-# ThisWeek-DesktopApp
+# ThisWeek-Desktop
 
-[Download ThisWeek DesktopApp](https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/tag/prod)
+[Download ThisWeek Desktop](https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/tag/prod)
