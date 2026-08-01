@@ -21,7 +21,7 @@
   <li>Secure native updates powered by Sparkle.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.0/ThisWeek-0.1.0-macos-arm64.dmg" length="22567248" type="application/octet-stream" sparkle:edSignature="LSNBOneCFXfM82pZ8uSDIcSw1sWk37pdIsixMghHwcCzvR9nBlzaQ/IdvzjzTmdr/+VAg9TsnOY6ItH7OOCkBg=="/>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.0/ThisWeek-0.1.0-macos-arm64.dmg" length="21072539" type="application/octet-stream" sparkle:edSignature="YH5CDq2aGj2mAOeaX2WujkAyPrGMy+YRlHK/SRN6a1iAeOwSISqj8M8GFtRP5LpK8zhMMRaHKosF0RKzvldhBQ=="/>
         </item>
     </channel>
 </rss>
