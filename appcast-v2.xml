@@ -5,6 +5,24 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Sat, 01 Aug 2026 23:49:35 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.1</h2>
+<p>Fixes meeting audio playback and makes listening online immediate.</p>
+<ul>
+  <li>Stream note audio right away while online — no waiting for a full local download.</li>
+  <li>Play web-created notes that previously failed after the S3 redirect.</li>
+  <li>Keep caching audio in the background for offline use.</li>
+  <li>Fall back to streaming if a local recording file is missing.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.1/ThisWeek-0.1.1-macos-arm64.dmg" length="21333334" type="application/octet-stream" sparkle:edSignature="w5+N0uRodcJVbOxU6GaGmFXLUMYRbSkmoudKHCz9duviPenbV/MM3tFU3bMzp854QNn0jhZKIkk6tPtUAsh6Dw=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Sat, 01 Aug 2026 22:07:01 +0100</pubDate>
             <link>https://thisweek.is</link>
