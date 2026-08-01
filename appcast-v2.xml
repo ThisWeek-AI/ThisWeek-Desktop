@@ -1,8 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>ThisWeek Desktop Updates</title>
-    <link>https://thisweek.is</link>
-    <description>Signed updates for the current ThisWeek desktop app.</description>
-  </channel>
+    <channel>
+        <title>ThisWeek Desktop Updates</title>
+        <link>https://thisweek.is</link>
+        <description>Signed updates for the current ThisWeek desktop app.</description>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 01 Aug 2026 22:07:01 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.0</h2>
+<p>The first public release of the new ThisWeek desktop app for Apple silicon Macs.</p>
+<ul>
+  <li>Capture microphone and system audio for meetings.</li>
+  <li>Create, organize, edit, and sync meeting notes.</li>
+  <li>Local transcription and summary workflows.</li>
+  <li>Menu-bar operation and launch-at-login support.</li>
+  <li>Secure native updates powered by Sparkle.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.0/ThisWeek-0.1.0-macos-arm64.dmg" length="22567248" type="application/octet-stream" sparkle:edSignature="LSNBOneCFXfM82pZ8uSDIcSw1sWk37pdIsixMghHwcCzvR9nBlzaQ/IdvzjzTmdr/+VAg9TsnOY6ItH7OOCkBg=="/>
+        </item>
+    </channel>
 </rss>
