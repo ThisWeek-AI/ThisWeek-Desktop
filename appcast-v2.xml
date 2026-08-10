@@ -5,6 +5,25 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Mon, 10 Aug 2026 14:20:23 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.4</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.4</h2>
+<p>Join meetings one minute early with notes ready.</p>
+<ul>
+  <li>Always-on-top <strong>Join &amp; take notes</strong> panel one minute before a calendar event.</li>
+  <li>Pick workspace and space on the panel before joining.</li>
+  <li>Opens Google Meet (or Zoom/Teams) in your browser and starts recording.</li>
+  <li>Uses your selected calendars so the correct upcoming meeting is shown.</li>
+  <li>Ask Anything is centered across calendar, notes, and transcript.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.4/ThisWeek-0.1.4-macos-arm64.dmg" length="21512189" type="application/octet-stream" sparkle:edSignature="ZHKEzoL/h8cnXlJFeLtphGinYR6/InDR3gQy+IHT1tfmXYqKfECOq7BPXudGqehlxtaW5WRijOGa5tiF9VMzDQ=="/>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Mon, 10 Aug 2026 10:51:34 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -37,24 +56,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.2/ThisWeek-0.1.2-macos-arm64.dmg" length="21380146" type="application/octet-stream" sparkle:edSignature="EvhFikiYaLdpebYqtWwDP0+PFvw1G8P6gzp/rkVrlmfCutgRRc5PX3ftBNWKYT3JSvYMGytPrGjtNFLRsgaZBg=="/>
-        </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Sat, 01 Aug 2026 23:49:35 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.1</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.1</h2>
-<p>Fixes meeting audio playback and makes listening online immediate.</p>
-<ul>
-  <li>Stream note audio right away while online — no waiting for a full local download.</li>
-  <li>Play web-created notes that previously failed after the S3 redirect.</li>
-  <li>Keep caching audio in the background for offline use.</li>
-  <li>Fall back to streaming if a local recording file is missing.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.1/ThisWeek-0.1.1-macos-arm64.dmg" length="21333334" type="application/octet-stream" sparkle:edSignature="w5+N0uRodcJVbOxU6GaGmFXLUMYRbSkmoudKHCz9duviPenbV/MM3tFU3bMzp854QNn0jhZKIkk6tPtUAsh6Dw=="/>
         </item>
     </channel>
 </rss>
