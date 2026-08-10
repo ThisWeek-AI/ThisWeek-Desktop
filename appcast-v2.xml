@@ -5,6 +5,23 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.8</title>
+            <pubDate>Mon, 10 Aug 2026 16:10:31 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.8</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.8</h2>
+<p>Offline Enhanced notes and a clearer Google Calendar reconnect path.</p>
+<ul>
+  <li>Prefetch generated summaries with your offline pack so Enhanced notes open offline.</li>
+  <li>Google sign-in no longer overwrites Calendar permissions.</li>
+  <li>Prompt to reconnect Calendar when permissions are missing.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.8/ThisWeek-0.1.8-macos-arm64.dmg" length="21577654" type="application/octet-stream" sparkle:edSignature="vsfYNntM33wbyTuteYI8cX9gqDXVUF0lWJgPWP1fEnU00kCviDM0Wb5zLkNf54i0++z/SmfzgFmZX6YBVNviAw=="/>
+        </item>
+        <item>
             <title>0.1.7</title>
             <pubDate>Mon, 10 Aug 2026 15:48:34 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -38,24 +55,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.6/ThisWeek-0.1.6-macos-arm64.dmg" length="21559595" type="application/octet-stream" sparkle:edSignature="dV8Px15kY6c4jKzX9TWQiD1wgTeo0YpjuI+nKU507krC2wN+7O7xezWb9bQ8Ti6Go1MCUtyNB69inO1WfqLmAA=="/>
-        </item>
-        <item>
-            <title>0.1.5</title>
-            <pubDate>Mon, 10 Aug 2026 15:02:52 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.5</sparkle:version>
-            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.5</h2>
-<p>Smoother calendar connect, settings, and Ask Anything.</p>
-<ul>
-  <li>Google Calendar connect uses the same success page and opens the app automatically.</li>
-  <li>Settings no longer shows Ask Anything or calendar events on top of the page.</li>
-  <li>Ask Anything keeps the reply thread open after an answer lands.</li>
-  <li>Less flicker when switching back to ThisWeek from another app.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.5/ThisWeek-0.1.5-macos-arm64.dmg" length="21548284" type="application/octet-stream" sparkle:edSignature="23BWklWnyUlTeylIKwYo7cMb5cQkxqYZbTtPYlaM0qCzRoyvEe5UxuBLPmV4puVgJbtAYeZvlNByqHRtFJpSDg=="/>
         </item>
     </channel>
 </rss>
