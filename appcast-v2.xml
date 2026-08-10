@@ -5,6 +5,24 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Mon, 10 Aug 2026 15:02:52 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.5</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.5</h2>
+<p>Smoother calendar connect, settings, and Ask Anything.</p>
+<ul>
+  <li>Google Calendar connect uses the same success page and opens the app automatically.</li>
+  <li>Settings no longer shows Ask Anything or calendar events on top of the page.</li>
+  <li>Ask Anything keeps the reply thread open after an answer lands.</li>
+  <li>Less flicker when switching back to ThisWeek from another app.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.5/ThisWeek-0.1.5-macos-arm64.dmg" length="21548284" type="application/octet-stream" sparkle:edSignature="23BWklWnyUlTeylIKwYo7cMb5cQkxqYZbTtPYlaM0qCzRoyvEe5UxuBLPmV4puVgJbtAYeZvlNByqHRtFJpSDg=="/>
+        </item>
+        <item>
             <title>0.1.4</title>
             <pubDate>Mon, 10 Aug 2026 14:20:23 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -38,24 +56,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.3/ThisWeek-0.1.3-macos-arm64.dmg" length="21381511" type="application/octet-stream" sparkle:edSignature="O6w74BlWamSfNO+DSzVKeDLx+doButQMHRBvcDBGn/jINpNCa9s9bCFqJ0g+UKft0E5ikicKaHq421DPS51wDg=="/>
-        </item>
-        <item>
-            <title>0.1.2</title>
-            <pubDate>Mon, 10 Aug 2026 09:57:00 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.2</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.2</h2>
-<p>Ask questions about a meeting while it is still going.</p>
-<ul>
-  <li>Floating <strong>Ask anything</strong> bar between the live transcript and your notes.</li>
-  <li>Query what has been said so far during a live meeting — answers use the transcript as it grows.</li>
-  <li>Multi-turn chat that saves to the server and stays in sync with web note chat.</li>
-  <li>Desktop Bearer auth for note chat, so Ask anything works from the Mac app.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.2/ThisWeek-0.1.2-macos-arm64.dmg" length="21380146" type="application/octet-stream" sparkle:edSignature="EvhFikiYaLdpebYqtWwDP0+PFvw1G8P6gzp/rkVrlmfCutgRRc5PX3ftBNWKYT3JSvYMGytPrGjtNFLRsgaZBg=="/>
         </item>
     </channel>
 </rss>
