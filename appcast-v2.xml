@@ -5,6 +5,23 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.9</title>
+            <pubDate>Mon, 10 Aug 2026 16:25:19 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.9</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.9</h2>
+<p>Smoother Google sign-in and clearer Ask Anything replies.</p>
+<ul>
+  <li>Sign out no longer leaves you stuck on Settings after you sign back in.</li>
+  <li>Sign in with Google also connects Google Calendar in the same consent.</li>
+  <li>Ask Anything renders bold, lists, and other markdown properly.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.9/ThisWeek-0.1.9-macos-arm64.dmg" length="21567541" type="application/octet-stream" sparkle:edSignature="DRzx7vV0p/Q7ZAG7NRey8zWgoexLGcSsmKoKLn7ICO8+JBb+dllqccbi70WcQ3kCAV9BTq/b7AWY7QGH1DN9Dg=="/>
+        </item>
+        <item>
             <title>0.1.8</title>
             <pubDate>Mon, 10 Aug 2026 16:10:31 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -37,24 +54,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.7/ThisWeek-0.1.7-macos-arm64.dmg" length="21569004" type="application/octet-stream" sparkle:edSignature="kP/EX3FRbpMjjTsZzfhyXuMxqva7MdU/+UHyeWwp0Xstb0p/HwWSE1JqKiUwPFu68rJoEuMRqcHjtgyCT2S1Dw=="/>
-        </item>
-        <item>
-            <title>0.1.6</title>
-            <pubDate>Mon, 10 Aug 2026 15:34:56 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.6</sparkle:version>
-            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.6</h2>
-<p>Your notes stay available with no internet — Granola-style offline access.</p>
-<ul>
-  <li>Relaunch offline and go straight into your cached notes (no login wall).</li>
-  <li>Folders work offline alongside note text.</li>
-  <li>Calm offline indicator instead of error banners.</li>
-  <li>Calendar and Ask Anything show clear offline states.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.6/ThisWeek-0.1.6-macos-arm64.dmg" length="21559595" type="application/octet-stream" sparkle:edSignature="dV8Px15kY6c4jKzX9TWQiD1wgTeo0YpjuI+nKU507krC2wN+7O7xezWb9bQ8Ti6Go1MCUtyNB69inO1WfqLmAA=="/>
         </item>
     </channel>
 </rss>
