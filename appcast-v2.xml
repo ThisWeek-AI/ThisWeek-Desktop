@@ -5,6 +5,23 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.10</title>
+            <pubDate>Mon, 10 Aug 2026 16:41:26 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.10</sparkle:version>
+            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.10</h2>
+<p>See offline sync progress while notes download to this Mac.</p>
+<ul>
+  <li>Live “Syncing 42/180” indicator in the header while prefetch runs.</li>
+  <li>Settings → General shows a progress bar for notes, summaries, and audio.</li>
+  <li>Sync now button to refresh the offline pack on demand.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.10/ThisWeek-0.1.10-macos-arm64.dmg" length="21579925" type="application/octet-stream" sparkle:edSignature="WRDeoLCgEgNdUbDgXsn29Uexfb0G0bmXMxU5t92cSaCaVfvybpZTxfhpO3Igy8OuPK9TBkL5TqaQcPH/3ocYCA=="/>
+        </item>
+        <item>
             <title>0.1.9</title>
             <pubDate>Mon, 10 Aug 2026 16:25:19 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -37,23 +54,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.8/ThisWeek-0.1.8-macos-arm64.dmg" length="21577654" type="application/octet-stream" sparkle:edSignature="vsfYNntM33wbyTuteYI8cX9gqDXVUF0lWJgPWP1fEnU00kCviDM0Wb5zLkNf54i0++z/SmfzgFmZX6YBVNviAw=="/>
-        </item>
-        <item>
-            <title>0.1.7</title>
-            <pubDate>Mon, 10 Aug 2026 15:48:34 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.7</sparkle:version>
-            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.7</h2>
-<p>Opening notes offline no longer shows a summary network error.</p>
-<ul>
-  <li>Cache Enhanced summaries when you open a note online.</li>
-  <li>Reuse that cache offline instead of failing the summaries request.</li>
-  <li>Generate and edit still need internet, with calm “Requires internet” copy.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.7/ThisWeek-0.1.7-macos-arm64.dmg" length="21569004" type="application/octet-stream" sparkle:edSignature="kP/EX3FRbpMjjTsZzfhyXuMxqva7MdU/+UHyeWwp0Xstb0p/HwWSE1JqKiUwPFu68rJoEuMRqcHjtgyCT2S1Dw=="/>
         </item>
     </channel>
 </rss>
