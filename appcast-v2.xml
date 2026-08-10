@@ -5,6 +5,23 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.11</title>
+            <pubDate>Mon, 10 Aug 2026 16:58:46 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.11</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.11</h2>
+<p>Open notes and Enhanced summaries instantly from local cache, then sync in the background.</p>
+<ul>
+  <li>Workspaces, spaces, notes, and folders paint from local storage first.</li>
+  <li>Enhanced summaries show cached content immediately, then refresh online.</li>
+  <li>Server sync still updates everything when you’re connected.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.11/ThisWeek-0.1.11-macos-arm64.dmg" length="21605676" type="application/octet-stream" sparkle:edSignature="jJekz+nvVeAq7R8yMQ4PPoO+QJgpAkpgR18bTkey3lZ+ymsZ/rcoUPHroldeUzBnAcrfhQB6zE5NY9WcLCywDw=="/>
+        </item>
+        <item>
             <title>0.1.10</title>
             <pubDate>Mon, 10 Aug 2026 16:41:26 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -37,23 +54,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.9/ThisWeek-0.1.9-macos-arm64.dmg" length="21567541" type="application/octet-stream" sparkle:edSignature="DRzx7vV0p/Q7ZAG7NRey8zWgoexLGcSsmKoKLn7ICO8+JBb+dllqccbi70WcQ3kCAV9BTq/b7AWY7QGH1DN9Dg=="/>
-        </item>
-        <item>
-            <title>0.1.8</title>
-            <pubDate>Mon, 10 Aug 2026 16:10:31 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.8</sparkle:version>
-            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.8</h2>
-<p>Offline Enhanced notes and a clearer Google Calendar reconnect path.</p>
-<ul>
-  <li>Prefetch generated summaries with your offline pack so Enhanced notes open offline.</li>
-  <li>Google sign-in no longer overwrites Calendar permissions.</li>
-  <li>Prompt to reconnect Calendar when permissions are missing.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.8/ThisWeek-0.1.8-macos-arm64.dmg" length="21577654" type="application/octet-stream" sparkle:edSignature="vsfYNntM33wbyTuteYI8cX9gqDXVUF0lWJgPWP1fEnU00kCviDM0Wb5zLkNf54i0++z/SmfzgFmZX6YBVNviAw=="/>
         </item>
     </channel>
 </rss>
