@@ -5,6 +5,23 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.7</title>
+            <pubDate>Mon, 10 Aug 2026 15:48:34 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.7</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.7</h2>
+<p>Opening notes offline no longer shows a summary network error.</p>
+<ul>
+  <li>Cache Enhanced summaries when you open a note online.</li>
+  <li>Reuse that cache offline instead of failing the summaries request.</li>
+  <li>Generate and edit still need internet, with calm “Requires internet” copy.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.7/ThisWeek-0.1.7-macos-arm64.dmg" length="21569004" type="application/octet-stream" sparkle:edSignature="kP/EX3FRbpMjjTsZzfhyXuMxqva7MdU/+UHyeWwp0Xstb0p/HwWSE1JqKiUwPFu68rJoEuMRqcHjtgyCT2S1Dw=="/>
+        </item>
+        <item>
             <title>0.1.6</title>
             <pubDate>Mon, 10 Aug 2026 15:34:56 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -39,25 +56,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.5/ThisWeek-0.1.5-macos-arm64.dmg" length="21548284" type="application/octet-stream" sparkle:edSignature="23BWklWnyUlTeylIKwYo7cMb5cQkxqYZbTtPYlaM0qCzRoyvEe5UxuBLPmV4puVgJbtAYeZvlNByqHRtFJpSDg=="/>
-        </item>
-        <item>
-            <title>0.1.4</title>
-            <pubDate>Mon, 10 Aug 2026 14:20:23 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.4</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.4</h2>
-<p>Join meetings one minute early with notes ready.</p>
-<ul>
-  <li>Always-on-top <strong>Join &amp; take notes</strong> panel one minute before a calendar event.</li>
-  <li>Pick workspace and space on the panel before joining.</li>
-  <li>Opens Google Meet (or Zoom/Teams) in your browser and starts recording.</li>
-  <li>Uses your selected calendars so the correct upcoming meeting is shown.</li>
-  <li>Ask Anything is centered across calendar, notes, and transcript.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.4/ThisWeek-0.1.4-macos-arm64.dmg" length="21512189" type="application/octet-stream" sparkle:edSignature="ZHKEzoL/h8cnXlJFeLtphGinYR6/InDR3gQy+IHT1tfmXYqKfECOq7BPXudGqehlxtaW5WRijOGa5tiF9VMzDQ=="/>
         </item>
     </channel>
 </rss>
