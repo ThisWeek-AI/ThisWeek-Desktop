@@ -5,6 +5,22 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.14</title>
+            <pubDate>Tue, 11 Aug 2026 23:52:29 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.14</sparkle:version>
+            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.14</h2>
+<p>Keeps the calendar column focused on day view.</p>
+<ul>
+  <li>Removes the Day / Week / Month toggle from the single-column calendar.</li>
+  <li>Day / Week / Month remain available in the full calendar view.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.14/ThisWeek-0.1.14-macos-arm64.dmg" length="21627842" type="application/octet-stream" sparkle:edSignature="DilOhudgRKpFAOiEBd4XRu6F2XsQazw22gVl9QM5gzGxrtButbzmysu3U8shB6gsVsSylvLFHI9K/ROhWt0YDQ=="/>
+        </item>
+        <item>
             <title>0.1.13</title>
             <pubDate>Tue, 11 Aug 2026 23:43:27 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -38,23 +54,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.12/ThisWeek-0.1.12-macos-arm64.dmg" length="21629164" type="application/octet-stream" sparkle:edSignature="Lxj2jIkgdJRJmjbYPDXKJcLQtPzc3RbRPq6wfDE4ARr2xwUGluzssWJGIn5sOcF0raze1dh4DIX9ycItgnXxCw=="/>
-        </item>
-        <item>
-            <title>0.1.11</title>
-            <pubDate>Mon, 10 Aug 2026 16:58:46 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.11</sparkle:version>
-            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.11</h2>
-<p>Open notes and Enhanced summaries instantly from local cache, then sync in the background.</p>
-<ul>
-  <li>Workspaces, spaces, notes, and folders paint from local storage first.</li>
-  <li>Enhanced summaries show cached content immediately, then refresh online.</li>
-  <li>Server sync still updates everything when you’re connected.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.11/ThisWeek-0.1.11-macos-arm64.dmg" length="21605676" type="application/octet-stream" sparkle:edSignature="jJekz+nvVeAq7R8yMQ4PPoO+QJgpAkpgR18bTkey3lZ+ymsZ/rcoUPHroldeUzBnAcrfhQB6zE5NY9WcLCywDw=="/>
         </item>
     </channel>
 </rss>
