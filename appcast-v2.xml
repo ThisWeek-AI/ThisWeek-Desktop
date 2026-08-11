@@ -5,6 +5,23 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.12</title>
+            <pubDate>Tue, 11 Aug 2026 23:00:06 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.12</sparkle:version>
+            <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.12</h2>
+<p>Fixes a bug where typing quickly in My Note could revert the editor to an older version and lose recent edits.</p>
+<ul>
+  <li>Background refreshes no longer overwrite newer local note content with a stale server snapshot.</li>
+  <li>The editor keeps your in-progress typing while a save or sync is in flight.</li>
+  <li>Pending autosaves flush when you switch notes, so the last keystrokes aren’t dropped.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.12/ThisWeek-0.1.12-macos-arm64.dmg" length="21629164" type="application/octet-stream" sparkle:edSignature="Lxj2jIkgdJRJmjbYPDXKJcLQtPzc3RbRPq6wfDE4ARr2xwUGluzssWJGIn5sOcF0raze1dh4DIX9ycItgnXxCw=="/>
+        </item>
+        <item>
             <title>0.1.11</title>
             <pubDate>Mon, 10 Aug 2026 16:58:46 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -37,23 +54,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.10/ThisWeek-0.1.10-macos-arm64.dmg" length="21579925" type="application/octet-stream" sparkle:edSignature="WRDeoLCgEgNdUbDgXsn29Uexfb0G0bmXMxU5t92cSaCaVfvybpZTxfhpO3Igy8OuPK9TBkL5TqaQcPH/3ocYCA=="/>
-        </item>
-        <item>
-            <title>0.1.9</title>
-            <pubDate>Mon, 10 Aug 2026 16:25:19 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.9</sparkle:version>
-            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.9</h2>
-<p>Smoother Google sign-in and clearer Ask Anything replies.</p>
-<ul>
-  <li>Sign out no longer leaves you stuck on Settings after you sign back in.</li>
-  <li>Sign in with Google also connects Google Calendar in the same consent.</li>
-  <li>Ask Anything renders bold, lists, and other markdown properly.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.9/ThisWeek-0.1.9-macos-arm64.dmg" length="21567541" type="application/octet-stream" sparkle:edSignature="DRzx7vV0p/Q7ZAG7NRey8zWgoexLGcSsmKoKLn7ICO8+JBb+dllqccbi70WcQ3kCAV9BTq/b7AWY7QGH1DN9Dg=="/>
         </item>
     </channel>
 </rss>
