@@ -5,6 +5,24 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.13</title>
+            <pubDate>Tue, 11 Aug 2026 23:43:27 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.13</sparkle:version>
+            <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.13</h2>
+<p>Calendar full view, smoother Enhanced notes, and several stability fixes.</p>
+<ul>
+  <li>Expand the calendar into a full main-pane view with Day / Week / Month in the header.</li>
+  <li>Opening notes with Enhanced no longer flashes My Note first, and the Enhanced toggle no longer flickers when switching notes.</li>
+  <li>Typing while saving no longer reverts the note to an older version (included from 0.1.12).</li>
+  <li>Settings overlays BlockNote toolbars correctly; right-click Inspect Element is disabled.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.13/ThisWeek-0.1.13-macos-arm64.dmg" length="21625770" type="application/octet-stream" sparkle:edSignature="HW9tXS5jYItaLhdvhcUOWuF1Nky4tp+gmWEbAalAEjJlp1h9v0xYtOfBNtyg68yyt/TTX5Ds7rGUgZ5e3c0fBg=="/>
+        </item>
+        <item>
             <title>0.1.12</title>
             <pubDate>Tue, 11 Aug 2026 23:00:06 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -37,23 +55,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.11/ThisWeek-0.1.11-macos-arm64.dmg" length="21605676" type="application/octet-stream" sparkle:edSignature="jJekz+nvVeAq7R8yMQ4PPoO+QJgpAkpgR18bTkey3lZ+ymsZ/rcoUPHroldeUzBnAcrfhQB6zE5NY9WcLCywDw=="/>
-        </item>
-        <item>
-            <title>0.1.10</title>
-            <pubDate>Mon, 10 Aug 2026 16:41:26 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.10</sparkle:version>
-            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.10</h2>
-<p>See offline sync progress while notes download to this Mac.</p>
-<ul>
-  <li>Live “Syncing 42/180” indicator in the header while prefetch runs.</li>
-  <li>Settings → General shows a progress bar for notes, summaries, and audio.</li>
-  <li>Sync now button to refresh the offline pack on demand.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.10/ThisWeek-0.1.10-macos-arm64.dmg" length="21579925" type="application/octet-stream" sparkle:edSignature="WRDeoLCgEgNdUbDgXsn29Uexfb0G0bmXMxU5t92cSaCaVfvybpZTxfhpO3Igy8OuPK9TBkL5TqaQcPH/3ocYCA=="/>
         </item>
     </channel>
 </rss>
