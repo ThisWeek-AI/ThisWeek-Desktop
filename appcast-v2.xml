@@ -5,6 +5,22 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.19</title>
+            <pubDate>Wed, 12 Aug 2026 16:16:39 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.19</sparkle:version>
+            <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.19</h2>
+<p>Menu bar meeting title no longer sticks after a meeting ends.</p>
+<ul>
+  <li>Clears the status text when nothing should be shown, so finished meetings don’t linger.</li>
+  <li>Always shows the next upcoming meeting in the menu bar (title + time until start).</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.19/ThisWeek-0.1.19-macos-arm64.dmg" length="21723836" type="application/octet-stream" sparkle:edSignature="EKHRQGNM6RvqYJZoipIX13jBcWoVu7SBCIVwXhFhNR/3qlEVlc1v0mtqVHuczbOWLBpQPAAuDPtXQe2uN4q9Bg=="/>
+        </item>
+        <item>
             <title>0.1.18</title>
             <pubDate>Wed, 12 Aug 2026 02:40:22 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -35,23 +51,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.17/ThisWeek-0.1.17-macos-arm64.dmg" length="21715596" type="application/octet-stream" sparkle:edSignature="y9yllF/z09ocgIkVyVuw2lWR9VxzJD7X2DByris1E+00TYx/KrpyE3VQNG3KkyadlME3CTJTSpEeROnp6hHeDg=="/>
-        </item>
-        <item>
-            <title>0.1.16</title>
-            <pubDate>Wed, 12 Aug 2026 02:15:50 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.16</sparkle:version>
-            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.16</h2>
-<p>Meetings in the menu bar.</p>
-<ul>
-  <li>Menu bar shows an upcoming meeting countdown next to the tick when something starts within an hour.</li>
-  <li>Tray menu lists next, today, and tomorrow meetings — click one to open or create its note.</li>
-  <li>New Note and Settings are available from the tray; flash errors can be dismissed with ×.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.16/ThisWeek-0.1.16-macos-arm64.dmg" length="21645800" type="application/octet-stream" sparkle:edSignature="vicg8b0CgHoBWEuWFQthWLQB68JHQSemiBjT9WxEDdK3yV1LBcNItzq6WTZkAkoCsShKxD0fX3C6nSqtYcAmDQ=="/>
         </item>
     </channel>
 </rss>
