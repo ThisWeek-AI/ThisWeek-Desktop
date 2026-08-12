@@ -5,6 +5,23 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.16</title>
+            <pubDate>Wed, 12 Aug 2026 02:15:50 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.16</sparkle:version>
+            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.16</h2>
+<p>Granola-style meetings in the menu bar.</p>
+<ul>
+  <li>Menu bar shows an upcoming meeting countdown next to the tick when something starts within an hour.</li>
+  <li>Tray menu lists next, today, and tomorrow meetings — click one to open or create its note.</li>
+  <li>New Note and Settings are available from the tray; flash errors can be dismissed with ×.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.16/ThisWeek-0.1.16-macos-arm64.dmg" length="21645800" type="application/octet-stream" sparkle:edSignature="vicg8b0CgHoBWEuWFQthWLQB68JHQSemiBjT9WxEDdK3yV1LBcNItzq6WTZkAkoCsShKxD0fX3C6nSqtYcAmDQ=="/>
+        </item>
+        <item>
             <title>0.1.15</title>
             <pubDate>Wed, 12 Aug 2026 00:01:48 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -35,24 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.14/ThisWeek-0.1.14-macos-arm64.dmg" length="21627842" type="application/octet-stream" sparkle:edSignature="DilOhudgRKpFAOiEBd4XRu6F2XsQazw22gVl9QM5gzGxrtButbzmysu3U8shB6gsVsSylvLFHI9K/ROhWt0YDQ=="/>
-        </item>
-        <item>
-            <title>0.1.13</title>
-            <pubDate>Tue, 11 Aug 2026 23:43:27 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.13</sparkle:version>
-            <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.13</h2>
-<p>Calendar full view, smoother Enhanced notes, and several stability fixes.</p>
-<ul>
-  <li>Expand the calendar into a full main-pane view with Day / Week / Month in the header.</li>
-  <li>Opening notes with Enhanced no longer flashes My Note first, and the Enhanced toggle no longer flickers when switching notes.</li>
-  <li>Typing while saving no longer reverts the note to an older version (included from 0.1.12).</li>
-  <li>Settings overlays BlockNote toolbars correctly; right-click Inspect Element is disabled.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.13/ThisWeek-0.1.13-macos-arm64.dmg" length="21625770" type="application/octet-stream" sparkle:edSignature="HW9tXS5jYItaLhdvhcUOWuF1Nky4tp+gmWEbAalAEjJlp1h9v0xYtOfBNtyg68yyt/TTX5Ds7rGUgZ5e3c0fBg=="/>
         </item>
     </channel>
 </rss>
