@@ -15,7 +15,7 @@
 <p>Tray polish for Settings and update status.</p>
 <ul>
   <li>Tray menu label is now “Settings”.</li>
-  <li>Under the version, the tray shows “You’re up to date” or “Update available” (like Granola).</li>
+  <li>Under the version, the tray shows “You’re up to date” or “Update available”.</li>
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.17/ThisWeek-0.1.17-macos-arm64.dmg" length="21715596" type="application/octet-stream" sparkle:edSignature="y9yllF/z09ocgIkVyVuw2lWR9VxzJD7X2DByris1E+00TYx/KrpyE3VQNG3KkyadlME3CTJTSpEeROnp6hHeDg=="/>
@@ -28,7 +28,7 @@
             <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>ThisWeek Desktop 0.1.16</h2>
-<p>Granola-style meetings in the menu bar.</p>
+<p>Meetings in the menu bar.</p>
 <ul>
   <li>Menu bar shows an upcoming meeting countdown next to the tick when something starts within an hour.</li>
   <li>Tray menu lists next, today, and tomorrow meetings — click one to open or create its note.</li>
