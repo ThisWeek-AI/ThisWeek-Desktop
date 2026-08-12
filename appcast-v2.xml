@@ -5,6 +5,22 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.18</title>
+            <pubDate>Wed, 12 Aug 2026 02:40:22 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.18</sparkle:version>
+            <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.18</h2>
+<p>Menu bar shows time remaining while you’re in a meeting.</p>
+<ul>
+  <li>During an in-progress event, the tick title shows a truncated name and “Xh Ym left”.</li>
+  <li>Before a meeting starts, it still shows “in Xm” when it begins within an hour.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.18/ThisWeek-0.1.18-macos-arm64.dmg" length="21713746" type="application/octet-stream" sparkle:edSignature="akzdSnNgplh9yJiPFXK6FhzMuhTYWPvxWp5L20TjlR7dw/bWE9ysVrnmceWLGFPxYhfji+oTqcIqhDBUo3sqBA=="/>
+        </item>
+        <item>
             <title>0.1.17</title>
             <pubDate>Wed, 12 Aug 2026 02:24:37 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -36,22 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.16/ThisWeek-0.1.16-macos-arm64.dmg" length="21645800" type="application/octet-stream" sparkle:edSignature="vicg8b0CgHoBWEuWFQthWLQB68JHQSemiBjT9WxEDdK3yV1LBcNItzq6WTZkAkoCsShKxD0fX3C6nSqtYcAmDQ=="/>
-        </item>
-        <item>
-            <title>0.1.15</title>
-            <pubDate>Wed, 12 Aug 2026 00:01:48 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.15</sparkle:version>
-            <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.15</h2>
-<p>Polish for calendar events and UI text selection.</p>
-<ul>
-  <li>Chrome UI (logo, headings, buttons) is no longer selectable; notes, Enhanced, transcripts, and Ask Anything replies still are.</li>
-  <li>Calendar event titles and times sit at the top of the event card.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.15/ThisWeek-0.1.15-macos-arm64.dmg" length="21625851" type="application/octet-stream" sparkle:edSignature="Ik3hQ5j5VGVIqqAcdE3pfVpE4jmEvMpx1uL9Pf9yfFFBa4mxBbYOSIgR/u3KYH9uxHNxEOCxmAHkuPFIxrXOBA=="/>
         </item>
     </channel>
 </rss>
