@@ -5,6 +5,22 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.17</title>
+            <pubDate>Wed, 12 Aug 2026 02:24:37 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.17</sparkle:version>
+            <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.17</h2>
+<p>Tray polish for Settings and update status.</p>
+<ul>
+  <li>Tray menu label is now “Settings”.</li>
+  <li>Under the version, the tray shows “You’re up to date” or “Update available” (like Granola).</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.17/ThisWeek-0.1.17-macos-arm64.dmg" length="21715596" type="application/octet-stream" sparkle:edSignature="y9yllF/z09ocgIkVyVuw2lWR9VxzJD7X2DByris1E+00TYx/KrpyE3VQNG3KkyadlME3CTJTSpEeROnp6hHeDg=="/>
+        </item>
+        <item>
             <title>0.1.16</title>
             <pubDate>Wed, 12 Aug 2026 02:15:50 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -36,22 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.15/ThisWeek-0.1.15-macos-arm64.dmg" length="21625851" type="application/octet-stream" sparkle:edSignature="Ik3hQ5j5VGVIqqAcdE3pfVpE4jmEvMpx1uL9Pf9yfFFBa4mxBbYOSIgR/u3KYH9uxHNxEOCxmAHkuPFIxrXOBA=="/>
-        </item>
-        <item>
-            <title>0.1.14</title>
-            <pubDate>Tue, 11 Aug 2026 23:52:29 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.14</sparkle:version>
-            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.14</h2>
-<p>Keeps the calendar column focused on day view.</p>
-<ul>
-  <li>Removes the Day / Week / Month toggle from the single-column calendar.</li>
-  <li>Day / Week / Month remain available in the full calendar view.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.14/ThisWeek-0.1.14-macos-arm64.dmg" length="21627842" type="application/octet-stream" sparkle:edSignature="DilOhudgRKpFAOiEBd4XRu6F2XsQazw22gVl9QM5gzGxrtButbzmysu3U8shB6gsVsSylvLFHI9K/ROhWt0YDQ=="/>
         </item>
     </channel>
 </rss>
