@@ -5,6 +5,23 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.20</title>
+            <pubDate>Wed, 12 Aug 2026 16:43:19 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.20</sparkle:version>
+            <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.20</h2>
+<p>Calendar settings and clearer menu-bar countdowns.</p>
+<ul>
+  <li>Menu bar countdown uses hours and minutes (for example “in 4h 8m”).</li>
+  <li>New Settings → Calendar tab to control menu-bar meetings and visible calendars.</li>
+  <li>Option to hide events with no participants or video link from the menu bar.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.20/ThisWeek-0.1.20-macos-arm64.dmg" length="21716699" type="application/octet-stream" sparkle:edSignature="GfvOa2ExJnsf3JrA0Xx55KfUEEvFyYpjdpj/mSKTXn+NpfG4l02RkCT9UmFcluYCA5L6oX2JiCeg0FP5eARsCQ=="/>
+        </item>
+        <item>
             <title>0.1.19</title>
             <pubDate>Wed, 12 Aug 2026 16:16:39 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -35,22 +52,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.18/ThisWeek-0.1.18-macos-arm64.dmg" length="21713746" type="application/octet-stream" sparkle:edSignature="akzdSnNgplh9yJiPFXK6FhzMuhTYWPvxWp5L20TjlR7dw/bWE9ysVrnmceWLGFPxYhfji+oTqcIqhDBUo3sqBA=="/>
-        </item>
-        <item>
-            <title>0.1.17</title>
-            <pubDate>Wed, 12 Aug 2026 02:24:37 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.17</sparkle:version>
-            <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.17</h2>
-<p>Tray polish for Settings and update status.</p>
-<ul>
-  <li>Tray menu label is now “Settings”.</li>
-  <li>Under the version, the tray shows “You’re up to date” or “Update available”.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.17/ThisWeek-0.1.17-macos-arm64.dmg" length="21715596" type="application/octet-stream" sparkle:edSignature="y9yllF/z09ocgIkVyVuw2lWR9VxzJD7X2DByris1E+00TYx/KrpyE3VQNG3KkyadlME3CTJTSpEeROnp6hHeDg=="/>
         </item>
     </channel>
 </rss>
