@@ -5,6 +5,23 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.21</title>
+            <pubDate>Thu, 13 Aug 2026 15:09:47 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.21</sparkle:version>
+            <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.21</h2>
+<p>Live transcript no longer goes blank when Local Whisper has no model installed.</p>
+<ul>
+  <li>If Whisper is selected but no model is downloaded, live transcription falls back to ThisWeek automatically.</li>
+  <li>Clearer transcript pane status while recording, plus an error when live STT cannot start.</li>
+  <li>Settings → Transcription warns when Whisper needs a model download.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.21/ThisWeek-0.1.21-macos-arm64.dmg" length="21716734" type="application/octet-stream" sparkle:edSignature="9az7CHMNaMUS+u4A6WttpnILPKksfCKk6LUzDGFwMQqlc9gVMehLwuUrUOchuURwwXeW0YRWvYW38ylP5NW5BA=="/>
+        </item>
+        <item>
             <title>0.1.20</title>
             <pubDate>Wed, 12 Aug 2026 16:43:19 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -36,22 +53,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.19/ThisWeek-0.1.19-macos-arm64.dmg" length="21723836" type="application/octet-stream" sparkle:edSignature="EKHRQGNM6RvqYJZoipIX13jBcWoVu7SBCIVwXhFhNR/3qlEVlc1v0mtqVHuczbOWLBpQPAAuDPtXQe2uN4q9Bg=="/>
-        </item>
-        <item>
-            <title>0.1.18</title>
-            <pubDate>Wed, 12 Aug 2026 02:40:22 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.18</sparkle:version>
-            <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.18</h2>
-<p>Menu bar shows time remaining while you’re in a meeting.</p>
-<ul>
-  <li>During an in-progress event, the tick title shows a truncated name and “Xh Ym left”.</li>
-  <li>Before a meeting starts, it still shows “in Xm” when it begins within an hour.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.18/ThisWeek-0.1.18-macos-arm64.dmg" length="21713746" type="application/octet-stream" sparkle:edSignature="akzdSnNgplh9yJiPFXK6FhzMuhTYWPvxWp5L20TjlR7dw/bWE9ysVrnmceWLGFPxYhfji+oTqcIqhDBUo3sqBA=="/>
         </item>
     </channel>
 </rss>
