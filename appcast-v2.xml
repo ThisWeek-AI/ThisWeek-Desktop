@@ -5,6 +5,23 @@
         <link>https://thisweek.is</link>
         <description>Signed updates for the current ThisWeek desktop app.</description>
         <item>
+            <title>0.1.22</title>
+            <pubDate>Wed, 19 Aug 2026 05:40:03 +0100</pubDate>
+            <link>https://thisweek.is</link>
+            <sparkle:version>0.1.22</sparkle:version>
+            <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>ThisWeek Desktop 0.1.22</h2>
+<p>Enhanced notes now include Action Items plus Share, Regenerate, and Delete — matching the web app.</p>
+<ul>
+  <li>Extract, complete, dismiss, edit, and convert action items from a summary.</li>
+  <li>Share a public summary link, regenerate with a template, or delete the summary.</li>
+  <li>Switching between Summary and Action Items no longer flashes the Enhanced page.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.22/ThisWeek-0.1.22-macos-arm64.dmg" length="21804388" type="application/octet-stream" sparkle:edSignature="Ul+9XYZPb1zypo+zz/X8gRxNxP88uyRa5ASqb0ob9M8LVXofzhFIKZuoQzLNWA8IgmWJsD5Dg4E0BKSt6QAdCg=="/>
+        </item>
+        <item>
             <title>0.1.21</title>
             <pubDate>Thu, 13 Aug 2026 15:09:47 +0100</pubDate>
             <link>https://thisweek.is</link>
@@ -37,22 +54,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.20/ThisWeek-0.1.20-macos-arm64.dmg" length="21716699" type="application/octet-stream" sparkle:edSignature="GfvOa2ExJnsf3JrA0Xx55KfUEEvFyYpjdpj/mSKTXn+NpfG4l02RkCT9UmFcluYCA5L6oX2JiCeg0FP5eARsCQ=="/>
-        </item>
-        <item>
-            <title>0.1.19</title>
-            <pubDate>Wed, 12 Aug 2026 16:16:39 +0100</pubDate>
-            <link>https://thisweek.is</link>
-            <sparkle:version>0.1.19</sparkle:version>
-            <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>ThisWeek Desktop 0.1.19</h2>
-<p>Menu bar meeting title no longer sticks after a meeting ends.</p>
-<ul>
-  <li>Clears the status text when nothing should be shown, so finished meetings don’t linger.</li>
-  <li>Always shows the next upcoming meeting in the menu bar (title + time until start).</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ThisWeek-AI/ThisWeek-Desktop/releases/download/desktop-v0.1.19/ThisWeek-0.1.19-macos-arm64.dmg" length="21723836" type="application/octet-stream" sparkle:edSignature="EKHRQGNM6RvqYJZoipIX13jBcWoVu7SBCIVwXhFhNR/3qlEVlc1v0mtqVHuczbOWLBpQPAAuDPtXQe2uN4q9Bg=="/>
         </item>
     </channel>
 </rss>
